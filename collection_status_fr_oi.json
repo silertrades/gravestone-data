@@ -1,0 +1,14 @@
+{
+  "completed": "2026-03-20 04:11 UTC",
+  "type": "funding_rate_and_oi",
+  "symbols": 543,
+  "fr_ok": 539,
+  "fr_err": 3,
+  "fr_skip": 1,
+  "oi4h_ok": 539,
+  "oi4h_err": 0,
+  "oi4h_skip": 4,
+  "oi1d_ok": 538,
+  "oi1d_err": 0,
+  "oi1d_skip": 5
+}
